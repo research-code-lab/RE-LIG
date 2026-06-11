@@ -1,0 +1,10 @@
+torch>=2.0
+torchvision
+captum>=0.6
+transformers>=4.30
+numpy
+scipy
+matplotlib
+scikit-image
+Pillow
+tqdm
