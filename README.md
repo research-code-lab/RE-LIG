@@ -39,7 +39,7 @@ Datasets: **SLAKE** (English subset) and **VQA-RAD** are publicly available
 The trained SLAKE checkpoint (`model_best.pth`, 221 answer classes) reproduces the reported
 test accuracy **80.77 / 87.61 / 77.34** (overall / closed / open). It is available at:
 
-> https://drive.google.com/file/d/1P7xyryOb_4E-XsG4PNM9_4Sx3wfouLQk/view?usp=sharing
+> **https://drive.google.com/file/d/1P7xyryOb_4E-XsG4PNM9_4Sx3wfouLQk/view?usp=sharing**
 
 All scripts accept `--model_path /path/to/model_best.pth`.
 
