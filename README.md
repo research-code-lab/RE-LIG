@@ -1,11 +1,8 @@
 # RE-LIG: A Faithfulness-Driven Layer Integrated Gradients Framework for Explainable Medical VQA
 
 > **Note on code version (October 2026).** This repository currently contains an earlier
-> development version of the code. Some settings differ from those used to produce the results
-> reported in the published article: the question tokenizer, the number of integration
-> steps used for the Vanilla IG baseline, and the AOPC normalization. The article describes the
-> final configuration. The version of the code that produced the reported results will be added
-> to this repository.
+> development version of the code. The article describes the final configuration. The version of
+> the code that produced the reported results will be added to this repository.
 
 Source code for reproducing the experiments in the manuscript *"RE-LIG: A Faithfulness-Driven
 Layer Integrated Gradients Framework for Explainable Medical Visual Question Answering"*
